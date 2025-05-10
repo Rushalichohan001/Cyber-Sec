@@ -1,8 +1,4 @@
-Absolutely — here’s a **simple extended description** for your report (to go near the top, like an executive summary or overview), and a clean **README.md** you can use in your GitHub repo (no emojis, just clear markdown and text).
-
----
-
-## 📄 Extended Description for the Report
+ Extended Description for the Report
 
 This report outlines the security assessment and enhancement of a Node.js web application that features user authentication and session management. The project was conducted in multiple phases, beginning with a vulnerability assessment using both automated tools and manual testing techniques. Common web security issues such as XSS, missing security headers, and input validation flaws were identified early in the process.
 
